@@ -1,4 +1,4 @@
-Repository for the group project on spin dynamics caused by the dipolar coupling between spins. For the QIST4300 Qubit Dynamics and Quantum Control course in TU Delft.
+Repository for the group project on spin dynamics caused by the dipolar coupling between spins. For the QIST4300 Qubit Dynamics and Quantum Control course at TU Delft.
 
 The final presentation can be found [here](https://docs.google.com/presentation/d/100-9EL0gzmZPG6ab2sW0C7LZ5ZcQitrTK_JCwmUltBo/edit?usp=sharing).
 
